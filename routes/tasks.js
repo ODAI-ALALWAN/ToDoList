@@ -15,5 +15,4 @@ router.delete('/delete/:id', TaskController.delete);
 
 
 
-// لنتمكن من الوصل لروت من الملفات الأخرى
 module.exports = router;
